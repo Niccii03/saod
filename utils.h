@@ -1,3 +1,1 @@
-
-
-int Plus(int a, int b);
+void Swap(int& x, int& y);
